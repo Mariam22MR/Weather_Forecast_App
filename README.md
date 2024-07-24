@@ -8,3 +8,5 @@ The project description can be found in this Link: https://kauksa-my.sharepoint.
 CSS
 HTML
 JAVASCRIPT
+
+![IMG_3714](https://github.com/user-attachments/assets/70a90c15-6c88-45ff-b521-b2efbd532e8b)
